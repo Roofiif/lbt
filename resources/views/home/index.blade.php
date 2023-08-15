@@ -118,7 +118,7 @@
                     $benefitPekerjaan = explode("\n", $beranda->sert_desc);
                     @endphp
                 
-                    @foreach($sert_desc as $desc)
+                    @foreach($benefitPekerjaan as $desc)
                         {{ trim($desc) }}<br>
                     @endforeach
                 </p>
