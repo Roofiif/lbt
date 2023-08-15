@@ -60,7 +60,7 @@
     <!-- Hero Section -->
     <section id="hero">
         <div class="container">
-          <img src="image/{{$about->image}}" alt="" class="position-relative top-0 z-1 img-hero h-100">
+          <img src="image/{{$about->image}}" alt="" class="position-relative top-0 z-1 img-hero">
         </div>
     </section>
 
