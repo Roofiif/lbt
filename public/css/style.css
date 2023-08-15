@@ -1,0 +1,45 @@
+.setting{
+    height: 25px;
+    width: 25px;
+    margin-right: 5px;
+    color: white;
+}
+
+.tmb-submit{
+    color: white;
+    background-color: #2C9E7A;
+
+    margin-top: 20px;
+}
+
+/* .settingInput{
+    height: 130px;
+} */
+
+/* .setting-perusahaan{
+    margin-left: 61%;
+} */
+
+.margin-perusahaan{
+    margin-top: 25px;
+}
+
+.up-gmb{
+    border: 1px solid gray;
+    width: 500px;
+    height: 100px;
+}
+
+.img-upld{
+    width: 50px;
+    height: 60px;
+}
+
+.tmb-txt{
+    border-radius: 0 5px 5px 0;
+}
+
+.pencil{
+    width: 23px;
+    height: 23px;
+}
